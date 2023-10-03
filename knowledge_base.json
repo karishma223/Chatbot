@@ -1,0 +1,22 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "answer": [
+        "Goa",
+        "Rome",
+        "London",
+        "Paris"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "hello",
+      "answer": "hey there"
+    },
+    {
+      "question": "what's up?",
+      "answer": "Nothing much"
+    }
+  ]
+}
